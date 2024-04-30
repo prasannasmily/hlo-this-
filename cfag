@@ -1,0 +1,19 @@
+Sure, here are some common Git commands:
+
+1. git init: Initialize a new Git repository.
+2. git clone <repository-url>: Clone an existing repository from a remote server.
+3. git status: Check the status of your working directory and staging area.
+4. git add <file>: Add changes in a file to the staging area.
+5. git commit -m "commit message": Commit staged changes with a descriptive message.
+6. git push: Push committed changes to a remote repository.
+7. git pull: Fetch changes from a remote repository and merge them into the local branch.
+8. git branch: List, create, or delete branches.
+9. git checkout <branch-name>: Switch to a different branch.
+10. git merge <branch-name>: Merge changes from one branch into the current branch.
+11. git log: View commit history.
+12. git reset <file>: Unstage changes in a file.
+13. git revert <commit>: Revert a commit.
+14. git stash: Temporarily store changes that are not ready to be committed.
+15. git tag: Create, list, delete or verify a tag object signed with GPG.
+
+These are just a few of the many Git commands available. Each command serves a specific purpose in managing your Git repositories.
