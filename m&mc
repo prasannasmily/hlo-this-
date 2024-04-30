@@ -1,0 +1,34 @@
+exp 4
+vs
+branch check main or not
+source control 3 dots
+branch -mergebranch
+select origin /our branch(feature myr)
+synchanges
+github 
+check main - new file showing or not (MYR)
+MERGE CONFLICTS
+main branch in github
+myr file updated
+open myr
+edit MYR
+write edit MYR
+commit changes-github
+vs
+check file ,main or not,make in to main
+synchanges - changed to main -feature myr(our branch)[ 3dots checkout]
+[if synchchanges is not there 3 dots pull -changed to main -feature myr(our branch)[ 3dots checkout]]
+our branch -open myr file
+type something in myr file
+(message - )
+commit chnages or tick mark
+synchanges(not there na close and open vs)
+spource control 3 dots
+branch 
+merge branch
+main
+paragraph com-accept both changes-typesomethingin your message-   (+>-  myrfile)
+commit chnges -synchanges
+go to github
+reload
+open myr file with any branch
