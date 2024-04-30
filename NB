@@ -1,0 +1,18 @@
+vs
+sourcecontrol
+3dots 
+branch -new branch
+name the branch
+publish branch
+github
+reload 
+vs 
+feature 3 down
+explorer new file
+name ----.html
+source control
++>-
+commitchanges
+synchchanges
+git new branch -new file
+main- no new file showing
